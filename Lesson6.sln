@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D(DD)_Delegate", "D(DD)_Delegate\D(DD)_Delegate.csproj", "{0B55397C-43EB-4894-B2AB-A1148B4E4BF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncMinimum", "FuncMinimum\FuncMinimum.csproj", "{D391C239-AF3C-4025-BC06-552E0411C40C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsCSV", "StudentsCSV\StudentsCSV.csproj", "{D38E0C8D-5B8E-4C09-9BEE-A9BE72691428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0B55397C-43EB-4894-B2AB-A1148B4E4BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B55397C-43EB-4894-B2AB-A1148B4E4BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B55397C-43EB-4894-B2AB-A1148B4E4BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D391C239-AF3C-4025-BC06-552E0411C40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D391C239-AF3C-4025-BC06-552E0411C40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D391C239-AF3C-4025-BC06-552E0411C40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D391C239-AF3C-4025-BC06-552E0411C40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38E0C8D-5B8E-4C09-9BEE-A9BE72691428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38E0C8D-5B8E-4C09-9BEE-A9BE72691428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38E0C8D-5B8E-4C09-9BEE-A9BE72691428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38E0C8D-5B8E-4C09-9BEE-A9BE72691428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
